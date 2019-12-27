@@ -45,28 +45,27 @@ subversion and looking for the versions detailed before.
 All the following packages are necessary to the correct execution of the pro-
 gram.
 
-• python 2.6.6
-• hurd [hurd-i386]
-• libatlas3gf-base [ia64]
-• libc0.1 (>= 2.3) [kfreebsd-amd64, kfreebsd-i386]
-• libc0.3 (>= 2.11) [hurd-i386]
-• libc6 (>= 2.11) [powerpcspe, sh4]
-• libc6.1 (>= 2.2) [ia64]
-• libcv1 [m68k]
-• libcv2.1 [not m68k]
-• libcvaux2.1 [not m68k]
-• libgcc1 [powerpcspe, sh4]
-• libgcc2 (>= 4.2.1) [m68k]
-• libgomp1 (>= 4.2.1) [m68k]
-• libhighgui1 [m68k]
-• libhighgui2.1 [not m68k]
-• liblapack3gf [not ia64, m68k]
-• libpython2.6 (>= 2.6) [not m68k]
-• libstdc++6 [powerpcspe, sh4]
-• libunwind7 [ia64]
-• python-support (>= 0.90.0)
-• python-support (>= 0.90.0)
-• zlib1g (>= 1:1.1.4) [not m68k]
+- python 2.6.6
+- hurd [hurd-i386]
+- libatlas3gf-base [ia64]
+- libc0.1 (>= 2.3) [kfreebsd-amd64, kfreebsd-i386]
+- libc0.3 (>= 2.11) [hurd-i386]
+- libc6 (>= 2.11) [powerpcspe, sh4]
+- libc6.1 (>= 2.2) [ia64]
+- libcv1 [m68k]
+- libcv2.1 [not m68k]
+- libcvaux2.1 [not m68k]
+- libgcc1 [powerpcspe, sh4]
+- libgcc2 (>= 4.2.1) [m68k]
+- libgomp1 (>= 4.2.1) [m68k]
+- libhighgui1 [m68k]
+- libhighgui2.1 [not m68k]
+- liblapack3gf [not ia64, m68k]
+- libpython2.6 (>= 2.6) [not m68k]
+- libstdc++6 [powerpcspe, sh4]
+- libunwind7 [ia64]
+- python-support (>= 0.90.0)
+- zlib1g (>= 1:1.1.4) [not m68k]
 
 ## How to use it
 To run the program it’s needed to have python 2.6.6, and execute the following
